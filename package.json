@@ -1,0 +1,12 @@
+{
+  "name": "s47_list_of_stupid_politician",
+  "version": "1.0.0",
+  "description": "This is your first repository\r THIS IS MY PROJECT TO SHOWCASE MY LEARNING VIA ASAP PROJECT\r THIS IS A README FILE\r MY PROJECT NAME IS List_of_stupid_politician\r idea : List_of_stupid_politician\r 1 Rahul Gandhi : The Congress showcased Rahul Gandhi as its face of future in November 2007 at its plenary session in Delhi's Talkatora Stadium. Those who were expecting him to deliver a speech like his father Rajiv Gandhi did 22 years earlier in 1985 - on the centenary of the Congress - returned home disappointed. Rahul's speech was abstract devoid of politics. Sample this: \"What, after all, is poverty,\" Rahul Gandhi asked a delegation of about 3000 Congress workers before answering, \"A poor person is one who is denied the opportunity to become rich.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
